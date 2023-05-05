@@ -1,4 +1,6 @@
-### Hi there 👋 I am Ciaxin
+### Hi there 👋 I am Ciaxin.
+
+![:name](https://count.getloli.com/get/@:Ciaxin)
 
 <!--
 **Ciaxin/Ciaxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
